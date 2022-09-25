@@ -1,0 +1,5 @@
+Introduce yourself in this file!
+
+Hi all,
+    I am Linxuan Ji, who is a Junior student majoring in Data Science and Statistics in Umich. I think a fun fact for me is that I swore I'd never take another computer class when I was a freshman but now I'm doing it all the time.
+ 
